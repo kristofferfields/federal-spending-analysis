@@ -50,7 +50,6 @@ This project includes:
 
 - `federal_spending_analysis.ipynb` — full Python analysis
 - `Federal_Spending_Analysis.pdf` — final written report
-- `images/` — charts and visualizations used in the analysis
 
 ## Methodology
 
